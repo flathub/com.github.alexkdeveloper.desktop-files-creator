@@ -5,6 +5,7 @@
     "sdk" : "org.gnome.Sdk",
     "command" : "desktop-files-creator",
     "finish-args" : [
+        "--device=dri",
         "--share=ipc",
         "--socket=fallback-x11",
         "--socket=wayland",
@@ -32,8 +33,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/desktop-files-creator.git",
-                    "tag": "1.0.5",
-                    "commit": "1a644de3b7ca0ab5d2c25958fe0c73f8ec2f42f9"
+                    "tag": "1.0.6",
+                    "commit": "5e3c5db588eda4e7bb881c2b97791b0c16df57c8"
                 }
             ]
         }

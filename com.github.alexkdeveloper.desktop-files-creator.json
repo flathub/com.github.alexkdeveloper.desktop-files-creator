@@ -33,8 +33,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/desktop-files-creator.git",
-                    "tag": "1.1.1",
-                    "commit": "dda59d453419a636c8fbdbf79ac4522de84a2c3a"
+                    "tag": "1.1.2",
+                    "commit": "5e4868cd7141321a83b85599b844629b8e18070b"
                 }
             ]
         }

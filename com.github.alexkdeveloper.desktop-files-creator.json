@@ -80,8 +80,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/desktop-files-creator.git",
-                    "tag": "1.1.6",
-                    "commit": "18e1437e4ecec4a73252e2847241f26950a024ac"
+                    "tag": "1.1.7",
+                    "commit": "cd44358ef8303120acf82bfcbede5eab0994b1a1"
                 }
             ]
         }

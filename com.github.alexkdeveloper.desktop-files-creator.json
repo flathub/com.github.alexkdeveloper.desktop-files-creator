@@ -9,8 +9,7 @@
         "--share=ipc",
         "--socket=fallback-x11",
         "--socket=wayland",
-        "--filesystem=home:ro",
-        "--filesystem=xdg-data/applications:create"
+        "--filesystem=~/.local/share/applications"
     ],
     "cleanup" : [
         "/include",
@@ -33,8 +32,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/desktop-files-creator.git",
-                    "tag": "1.1.8",
-                    "commit": "25c711aa26dc1c81f4129fbd00b1e0ac69bd95d4"
+                    "tag": "1.1.9",
+                    "commit": "6cf8546fa617271369203735bd784dfe63df827c"
                 }
             ]
         }
